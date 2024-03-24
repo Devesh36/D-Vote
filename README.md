@@ -1,6 +1,6 @@
-# blockchain-voting-system v.0.1
+# D-Vote
 
- Blockchain Voting System Project 🍳CheckOut #github
+Blockchain Voting System Project 
 
 Decentralized Election voting System project using Blockchain technology such as Metamask, hardhat, and Remix IDE.
 
@@ -15,14 +15,14 @@ Languages used
 2. ether.js
 3. solidity
 
-Live Demo
-https://voting.netlify.app/
+Live Demo[
+https://voting.netlify.app/](https://d-vote.netlify.app/)
 
 Goerli TestNet
 https://goerli.etherscan.io/address/0x0fee2908afda3d25e876c05ed5a6b9e40c37d909#code
 
 YouTube
-https://www.youtube.com/watch?v=oJgENg8aFBA
+[https://www.youtube.com/watch?v=oJgENg8aFBA](https://youtu.be/BF-2edT1SzA)
 
 
 #HOW TO RUN
@@ -31,9 +31,3 @@ Run neo4j by command (in bin folder of neo4j installed folder) - neo4j console
 Run the nodejs code - npm run devStart
 
 Voting is a fundamental democratic activity. Many experts believe that paper balloting is the only appropriate method to ensure everyone’s right to vote. But this method is prone to errors and abuse. Many nations utilize digital voting methods to solve the difficulties of paper balloting. A single flaw in digital voting may lead to massive vote-rigging. Election voting methods must be legal, accurate, safe, and convenient. However, issues with digital voting methods may restrict acceptance. Due to its end-to-end verification capabilities, blockchain technology was developed to address these problems. To guarantee We have used blockchain technology for anonymity, privacy, verifiability, mobility, integrity, security, and fairness in voting.
-
-Follow my #github for Next #projects
-
-#blockchain #react #technology #digital #privacy #legal #project #security
-
-
